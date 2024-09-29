@@ -69,15 +69,28 @@ you have provided the City with your Social Security Number[^1]
 
 <iframe class="width-full" style="aspect-ratio: 16/9;" src="https://www.youtube-nocookie.com/embed/3d1_lIZADGg" title="YouTube video player" frameborder="0" allow="encrypted-media" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The City of Columbus offers free credit reporting via Experian to adults and minors with Social Security Numbers, and sole-proprietor businesses operating under an SSN instead of an EIN.[^9]
+The City of Columbus offers two years of free credit reporting via Experian to adults and minors with Social Security Numbers,[^12] and to sole-proprietor businesses operating under an SSN instead of an EIN.[^9]
 
-<a class="usa-button usa-button--secondary" href="https://www.columbus.gov/Services/Cybersecurity">Visit Columbus.gov for more information</a>
+<a class="usa-button usa-button--secondary" href="https://www.columbus.gov/cyber">Enroll at Columbus.gov/cyber</a>
+
+You must enroll by November 29, 2024 to take advantage of this free offer.
+
+The City says that other ways you can protect yourself include:[^12]
+
+- Change your passwords.
+- Monitor your bank accounts and credit cards for unusual activity.
+- Request a free credit report at [annualcreditreport.com](https://www.annualcreditreport.com/) or 1-877-322-8228.
+- Never give out personal information over the phone, email or by text.
+- Do not reply to emails asking for money or click on links you don’t recognize.
+- If you receive a weird email or text message from someone, contact them via another means such as calling them.[^9]
 
 ## How can I check if my data was included in the leak?
 
 The hacking group which copied the data, Rhysida, says that they stole approximately 6.5 terabytes of data, of which they have released about 45 percent on their dark web site. Rhysida's website is accessible to anyone with a TOR web browser.[^2] 
 
 > “It doesn’t take any sophistication or vast technical knowledge to access that,” [[Electronic Frontier Foundation](https://eff.org) Free Speech and Transparency Litigation Director Aaron Mackey] said. “You can actually use a Google search to download a browser called Tor, which stands for ‘the onion router,’ and it allows you to actually access a lot of this material online. So it’s as sophisticated as downloading an app on your phone.” [^10]
+
+Whether or not your data was included in the lead, you can still sign up for the two years of free credit monitoring.
 
 ## What was stolen? {#stolen}
 
@@ -105,11 +118,17 @@ Columbus' parking management provider ParkMobile confirmed that they do not shar
 
 If you're aware of a fact that isn't listed here, _and that hasn't been reported in the press or in court_, please contact local law enforcement and/or the press.
 
-If you're aware of a fact that has been reported in the press, or has been reported in court, send that publicly-posted link to Ben Keith via the usual methods. He has zero desire to receive the data itself, or to receive your original research into the data.
+If you're aware of a fact that has been reported in the press, or has been reported in court, send that publicly-posted link to Ben Keith via the usual methods. He has zero desire to receive the data itself, or to receive your personal original research into the data. Send it to the press.
 
 </div><!-- grid-col -->
 </div><!-- grid-row -->
 </section><!-- grid-container -->
+
+<div class="display-none">
+<p>Is my data included in the Columbus data leak? Probably yes. The City of Columbus offers free credit monitoring to help protect you.</p>
+<p>Am I affected by the Columbus data leak? Probably yes. If you have interacted with the City of Columbus, your details may have been stolen and leaked. The City of Columbus offers free credit monitoring to help protect you.</p>
+<p>Does Rhysida have my personal information from Columbus? Probably yes. Hackers stole large amounts of personal data from the City of Columbus. If you have interacted with the City of Columbus, your details may have been stolen and leaked. The City of Columbus offers free credit monitoring to help protect you.</p>
+<div>
 
 ## Sources {#sources}
 
@@ -124,3 +143,4 @@ If you're aware of a fact that has been reported in the press, or has been repor
 [^9]: Columbus City Council meeting, September 9, 2024. Relevant time stamps are [0:39:30](https://youtu.be/V8-4ehTsXQM?t=2189) to [1:23:30](https://youtu.be/V8-4ehTsXQM?t=5025).
 [^10]: "[Columbus whistleblower lawsuit violates First Amendment, digital rights group says ](https://www.nbc4i.com/news/investigates/columbus-whistleblower-lawsuit-violates-first-amendment-digital-rights-group-says/)", NBC4i. Posted Aug 30, 2024, 06:00 PM EDT. Updated Sep 3, 2024, 04:38 PM EDT. [Archive.org copy](https://web.archive.org/web/20240913172537/https://www.nbc4i.com/news/investigates/columbus-whistleblower-lawsuit-violates-first-amendment-digital-rights-group-says/). 
 [^11]: "[Columbus parking app gives answer on whether data leak impacts its users ](https://www.nbc4i.com/news/investigates/columbus-parking-app-gives-answer-on-whether-data-leak-impacts-its-users/)" NBC4i. Posted Aug 26, 2024, 06:22 PM EDT. Updated Aug 26, 2024, 06:22 PM EDT. [Archive.org copy](https://web.archive.org/web/20240830102823/https://www.nbc4i.com/news/investigates/columbus-parking-app-gives-answer-on-whether-data-leak-impacts-its-users/). “For clarity, ParkMobile powers digital parking payments in Columbus via the ParkColumbus white label mobile app and website. A white label allows cities the option to display a customized branded experience through ParkMobile,” a spokesperson wrote. “To note, no customer data from a parking transaction is shared directly with the city. We also have no information suggesting that ParkMobile customer data is involved in the cyberattack on the city of Columbus.”
+[^12]: "[Experian Partner Toolkit]({% link assets/Experian_Partner_Toolkit.pdf %})" provided to Area Commissioners. The information here is mostly reproduced on specific pages linked to from [Columbus.gov/cyber](https://www.columbus.gov/cyber).
