@@ -4,6 +4,8 @@ published: false
 
 # Columbus Data Breach site
 
+View the webpage here: https://benlk.github.io/columbus-data-breach/
+
 ## Installation
 
 1. `bundle install`, I think?
