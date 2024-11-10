@@ -8,61 +8,45 @@ date: 2024-08-13
 <div class="grid-row grid-gap">
 
 <div class="display-none tablet:display-block tablet:grid-col-4 ">
-  <div class="position-sticky top-3">
-    <p class="margin-top-3">
-      <a class="usa-button usa-button--secondary width-full" href="https://www.columbus.gov/Services/Cybersecurity">Visit Columbus.gov<br/> for more information</a>
-    </p>
-    <nav aria-label="In-page navigation">
-      <ul class="usa-sidenav">
-        <li><a href="#you">Your info may have been ...</a></li>
-        <li><a href="#what">What you can do</a></li>
-        <li><a href="#stolen">What was stolen</a></li>
-        <li><a href="#notstolen">What wasn't stolen</a></li>
-        <li><a href="#help">Help this site</a></li>
-        <li><a href="#sources">Sources</a></li>
-      </ul>
-    </nav>
-  </div>
+<div class="position-sticky top-3">
+<p class="margin-top-3">
+<a class="usa-button usa-button--secondary width-full" href="https://www.columbus.gov/Services/Cybersecurity">Visit Columbus.gov<br/> for more information</a>
+</p>
+<nav aria-label="In-page navigation">
+<ul class="usa-sidenav">
+<li><a href="#you">Your info may have been ...</a></li>
+<li><a href="#what">What you can do</a></li>
+<li><a href="#stolen">What was stolen</a></li>
+<li><a href="#notstolen">What wasn't stolen</a></li>
+<li><a href="#help">Help this site</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+</nav>
+</div>
 </div><!-- grid-col -->
 
-<div class="tablet:grid-col-8 usa-prose" markdown=1>
+<div class="tablet:grid-col-8 usa-prose" markdown="1">
 
 <div
   class="usa-summary-box"
   role="region"
-  aria-labelledby="summary-box-key-information"
+  markdown="1"
 >
-  <div class="usa-summary-box__body">
-    <h2 class="usa-summary-box__heading" id="you">
-      Your personal information may have been copied if:
-    </h2>
-    <div class="usa-summary-box__text">
-      <ul class="usa-list">
-<li markdown=1>
-you are a juvenile or adult victim of a crime[^1] or fire[^7]
-</li>
-<li markdown=1>
-you are an overt or undercover police officer[^1]
-</li>
-<li markdown=1>
-you are a confidential police informant[^1]
-</li>
-<li markdown=1>
-you ever filed a report with Columbus Police[^6]
-</li>
-<li markdown=1>
-your driver's license or state ID was ever scanned at a City facility[^1]
-</li>
-<li markdown=1>
-you are an employee of the City of Columbus[^1]
-</li>
-<li markdown=1>
+<div class="usa-summary-box__body">
+<h2 class="usa-summary-box__heading" id="you">Your personal information may have been copied if:</h2>
+
+<div class="usa-summary-box__text" markdown="1">
+- you are a juvenile or adult victim of a crime[^1] or fire[^7]
+- you are an overt or undercover police officer[^1]
+- you are a confidential police informant[^1]
+- you ever filed a report with Columbus Police[^6]
+- your driver's license or state ID was ever scanned at a City facility[^1]
+- you are an employee of the City of Columbus[^1]
 you have provided the City with your Social Security Number[^1]
-</li>
-      </ul>
-      <p>This list is based on press reports and filings in lawsuits concerning the hack.</p>
-    </div>
-  </div>
+
+This list is based on press reports, filings in lawsuits concerning the hack, and City of Columbus communications.
+</div>
+</div>
 </div>
 
 ## My data may have been stolen. What can I do? {#what}
@@ -79,18 +63,29 @@ The City says that other ways you can protect yourself include:[^12]
 
 - Change your passwords.
 - Monitor your bank accounts and credit cards for unusual activity.
-- Request a free credit report at [annualcreditreport.com](https://www.annualcreditreport.com/) or 1-877-322-8228.
+- Request a free credit report at [annualcreditreport.com](https://www.annualcreditreport.com/) or [1-877-322-8228](tel:+1-877-322-8228).[^9]
 - Never give out personal information over the phone, email or by text.
-- Do not reply to emails asking for money or click on links you don’t recognize.
-- If you receive a weird email or text message from someone, contact them via another means such as calling them.[^9]
+- Do not reply to emails asking for money, and do not click on links you don’t recognize.
+- Do not reply to text messages asking for money, and do not click on links you don't recognize.
+- If you receive a weird email or text message from someone, contact them via another means such as calling them.
+- Report incidents of suspected identity theft to your local law enforcement.[^15]
+- Report incidents of suspected identity theft to the Federal Trade Commission (the “FTC”). To file a complaint with the FTC, go to [IdentityTheft.gov](https://www.identitytheft.gov/) or call [1-877-ID-THEFT (1 (877) 438-4338)](tel:+1-877-438-4338). Complaints filed with the FTC will be added to the FTC’s Identity Theft Data Clearinghouse, which is a database made available to law enforcement agencies. Information on how to contact your state attorney general can be found in Appendix A to this letter.[^15]
+- Report incidents of suspected identity theft to your state attorney general. [Ohio Residents can use this form](https://www.ohioattorneygeneral.gov/identitytheft).[^15]
+- Read [the FTC's guides to protecting yourself from identity theft](https://consumer.ftc.gov/identity-theft-and-online-security).[^15]
 
 ## How can I check if my data was included in the leak?
 
-The hacking group which copied the data, Rhysida, says that they stole approximately 6.5 terabytes of data, of which they have released about 45 percent on their dark web site. Rhysida's website is accessible to anyone with a TOR web browser.[^2] 
+The City of Columbus sent notices on October 7 to approximately 500,000 people whose data was included in the leak.[^15]
+
+Whether or not your data was included in the leak, you can still sign up for the two years of free credit monitoring.
+
+<a class="usa-button usa-button--secondary" href="https://www.columbus.gov/cyber">Enroll at Columbus.gov/cyber</a>
+
+The hacking group which copied the data, Rhysida, says that they stole approximately 6.5 terabytes of data, of which they have released about 45 percent (3 terabytes) on their dark web site. Rhysida's website is accessible to anyone with a TOR web browser.[^2] 
 
 > “It doesn’t take any sophistication or vast technical knowledge to access that,” [[Electronic Frontier Foundation](https://eff.org) Free Speech and Transparency Litigation Director Aaron Mackey] said. “You can actually use a Google search to download a browser called Tor, which stands for ‘the onion router,’ and it allows you to actually access a lot of this material online. So it’s as sophisticated as downloading an app on your phone.” [^10]
 
-Whether or not your data was included in the lead, you can still sign up for the two years of free credit monitoring.
+As a side note, 3 terabytes is more data than the typical computer or phone has space to store.
 
 ## What was stolen? {#stolen}
 
@@ -108,9 +103,17 @@ Based on press reports, court documents, news comments, and City staff comments,
 - lists of visitors to City Hall[^8] [^9]
 - lists of individuals allegedly banned from City buildings[^8]
 
+Approximately 500,000 people's data was stolen, and may include their first and last name, date of birth, bank account information, driver's license(s), Social Security Number, and/or other identifying information concerning their relations with the City of Columbus.[^15]
+
 ## Was any data not stolen? {#notstolen}
 
 Columbus' parking management provider ParkMobile confirmed that they do not share customer data "directly" with the City, and have received no reports of data loss connected to this hack.[^11]
+
+## What next? {#next}
+
+The City of Columbus said on September 26 that it expects to be fully recovered by "the end of October".[^14]
+
+The City of Columbus said on October 17 that it typically takes around 150 days to recover from a cyber-attack.[^13] The breach occurred on July 18, 2024,[^14] so 150 days later would be around December 2024.
 
 ## Help contribute to this site {#help}
 
@@ -118,17 +121,17 @@ Columbus' parking management provider ParkMobile confirmed that they do not shar
 
 If you're aware of a fact that isn't listed here, _and that hasn't been reported in the press or in court_, please contact local law enforcement and/or the press.
 
-If you're aware of a fact that has been reported in the press, or has been reported in court, send that publicly-posted link to Ben Keith via the usual methods. He has zero desire to receive the data itself, or to receive your personal original research into the data. Send it to the press.
+If you're aware of a fact that has been reported in the press, or has been reported in court, send that publicly-posted link to Ben Keith via the usual methods. He has zero desire to receive the data itself, or to receive your personal original research into the data. Send _that_ to the press.
 
 </div><!-- grid-col -->
 </div><!-- grid-row -->
 </section><!-- grid-container -->
 
 <div class="display-none">
-<p>Is my data included in the Columbus data leak? Probably yes. The City of Columbus offers free credit monitoring to help protect you.</p>
-<p>Am I affected by the Columbus data leak? Probably yes. If you have interacted with the City of Columbus, your details may have been stolen and leaked. The City of Columbus offers free credit monitoring to help protect you.</p>
-<p>Does Rhysida have my personal information from Columbus? Probably yes. Hackers stole large amounts of personal data from the City of Columbus. If you have interacted with the City of Columbus, your details may have been stolen and leaked. The City of Columbus offers free credit monitoring to help protect you.</p>
-<div>
+  <p>Is my data included in the Columbus data leak? Probably yes. The City of Columbus offers free credit monitoring to help protect you.</p>
+  <p>Am I affected by the Columbus data leak? Probably yes. If you have interacted with the City of Columbus, your details may have been stolen and leaked. The City of Columbus offers free credit monitoring to help protect you.</p>
+  <p>Does Rhysida have my personal information from Columbus? Probably yes. Hackers stole large amounts of personal data from the City of Columbus. If you have interacted with the City of Columbus, your details may have been stolen and leaked. The City of Columbus offers free credit monitoring to help protect you.</p>
+</div>
 
 ## Sources {#sources}
 
@@ -144,3 +147,6 @@ If you're aware of a fact that has been reported in the press, or has been repor
 [^10]: "[Columbus whistleblower lawsuit violates First Amendment, digital rights group says ](https://www.nbc4i.com/news/investigates/columbus-whistleblower-lawsuit-violates-first-amendment-digital-rights-group-says/)", NBC4i. Posted Aug 30, 2024, 06:00 PM EDT. Updated Sep 3, 2024, 04:38 PM EDT. [Archive.org copy](https://web.archive.org/web/20240913172537/https://www.nbc4i.com/news/investigates/columbus-whistleblower-lawsuit-violates-first-amendment-digital-rights-group-says/). 
 [^11]: "[Columbus parking app gives answer on whether data leak impacts its users ](https://www.nbc4i.com/news/investigates/columbus-parking-app-gives-answer-on-whether-data-leak-impacts-its-users/)" NBC4i. Posted Aug 26, 2024, 06:22 PM EDT. Updated Aug 26, 2024, 06:22 PM EDT. [Archive.org copy](https://web.archive.org/web/20240830102823/https://www.nbc4i.com/news/investigates/columbus-parking-app-gives-answer-on-whether-data-leak-impacts-its-users/). “For clarity, ParkMobile powers digital parking payments in Columbus via the ParkColumbus white label mobile app and website. A white label allows cities the option to display a customized branded experience through ParkMobile,” a spokesperson wrote. “To note, no customer data from a parking transaction is shared directly with the city. We also have no information suggesting that ParkMobile customer data is involved in the cyberattack on the city of Columbus.”
 [^12]: "[Experian Partner Toolkit]({% link assets/Experian_Partner_Toolkit.pdf %})" provided to Area Commissioners. The information here is mostly reproduced on specific pages linked to from [Columbus.gov/cyber](https://www.columbus.gov/cyber).
+[^13]: [Cybersecurity Update October 17, 2024](https://content.govdelivery.com/accounts/OHCCC/bulletins/3bcaae3), from Mayor Ginther: "I am pleased to report that we are making steady progress toward full restoration and, as I shared last week, all of our most critical IT systems have already been restored. To help illustrate the speed and scale of our progress, most organizations typically recover from a cyber-attack within 150 days."
+[^14]: [Cybersecurity Update](https://content.govdelivery.com/accounts/OHCCC/bulletins/3b85061), 26 September 2024, from Mayor Ginther: "Work is well underway to fortify and fully restore the systems that were impacted by the cyber-attack we discovered on July 18." ... "To date, 70% of the city's systems have been fully restored, while another 7% have been partially restored. Our goal is to achieve full restoration of all systems by the end of October."
+[^15]: [Sample breach notification letter](https://www.documentcloud.org/documents/25267854-city_of_columbus_data_breach_notification_letter), filed by Columbus with [Maine's Office of the Attorney General](https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bb45501f-6f7c-40e1-916c-97cc4079b399.html). This letter was found via [Bleeping Computer](https://www.bleepingcomputer.com/news/security/city-of-columbus-data-of-500-000-stolen-in-july-ransomware-attack/).

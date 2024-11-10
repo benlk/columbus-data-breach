@@ -45,7 +45,6 @@ autoprefixer:
   browsers:
     - "> 2%"
     - last 2 versions
-    - IE 11
     - not dead
 
 # Exclude from processing.
@@ -58,3 +57,6 @@ autoprefixer:
 #
 exclude:
   - serve.sh
+
+kramdown:
+  parse_block_html: true

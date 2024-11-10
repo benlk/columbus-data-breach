@@ -8,7 +8,7 @@ date: 2024-07-10
 
 This site was last updated on {{ site.time | date: '%A, %B %e, %Y' }}.
 
-This website is a personal hobby project by [Ben Keith](https://benlk.com/), a Columbus resident who finds the City's websites inadequate for many purposes.
+This website is a personal hobby project by [Ben Keith](https://benlk.com/), a Columbus resident who finds the City's websites inadequate for many purposes. This website was specifically created to exploit certain Search Engine Optimization techniques, to ensure that certain search queries direct people to reputable information. The specific technique was inspired by [xkcd's original footnote](https://www.explainxkcd.com/wiki/index.php/Footnote#2._Original_footnote).
 
 To contribute to the development of this site, [refer to the GitHub repository](https://github.com/benlk/columbus-data-breach).
 
